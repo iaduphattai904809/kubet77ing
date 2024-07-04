@@ -1,22 +1,16 @@
-Welcome to Lumache's documentation!
+KUBET77 - Đăng Ký Nhận 59K, Chơi Lô Đề 1 Ăn 99 - kubet77.ing
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+`KuBet77 <https://kubet77.ing/>`_ là một trong những nền tảng giải trí trực tuyến hàng đầu, nổi bật với sự đa dạng và hấp dẫn của các trò chơi casino, thể thao, esports,.... Trang chủ chính thức của Kubet77 được thiết kế để cung cấp trải nghiệm tuyệt vời nhất cho người chơi, với không gian sống động và cơ hội trúng thưởng cao. Với cam kết đem đến cho người chơi những giây phút giải trí và cơ hội thành công, KuBet77 là điểm đến cho các tín đồ của trò chơi may mắn và sự hứng thú.
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+Thông tin liên hệ: 
 
-.. note::
+Địa chỉ: 272/6 Lê Thị Hà, Tân Xuân, Hóc Môn, Hồ Chí Minh, Việt Nam. 
 
-   This project is under active development.
+Phone: 0980004733. 
 
-Contents
---------
+Email: info@kubet77.ing. 
 
-.. toctree::
+Website: https://kubet77.ing/
 
-   usage
-   api
+#kubet77 #trangchukubet77 #linkkubet77 #nhacaikubet77 #dangkykubet77
